@@ -35,7 +35,7 @@ My name is Anastasiia. I'm a QA Engineer.
   <img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/charles_proxy_macos_bigsur_icon_190302.png" title="charles-proxy" alt="charles-proxy" width="40" height="40"/>&nbsp
 </div>
 
-## Логи и мониторинги
+## Log monitoring
 <div>
   <img src="https://raw.githubusercontent.com/maliceio/kibana/master/docs/kibana-logo.png" title="Kibana" alt="Kibana" width="40" height="40"/>&nbsp
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Sentry.svg" title="Sentry" alt="Sentry" width="40" height="40"/>&nbsp
@@ -43,7 +43,7 @@ My name is Anastasiia. I'm a QA Engineer.
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Bash-Dark.svg" title="Bash" alt="Bash" width="40" height="40"/>&nbsp
 </div>
 
-## Тестовая документация 
+## Testing documentation
   <div>
     <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/4b/7d/d4/4b7dd461-16e6-e245-af56-512fc8aa21e5/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/460x0w.webp" title="Yandex Tracker" alt="Yandex Tracker" width="40" height="40"/>&nbsp
     <img src="https://logosandtypes.com/wp-content/uploads/2023/03/clickup.svg" title="ClickUp" alt="ClickUp" width="40" height="40"/>&nbsp
@@ -51,7 +51,7 @@ My name is Anastasiia. I'm a QA Engineer.
     <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Notion-Dark.svg" title="Notion" alt="Notion" width="40" height="40"/>&nbsp
   </div>
 
-## Работа с базами данных
+## Database
 <div>
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PostgreSQL-Dark.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MongoDB.svg" title="Mongo DB" alt="Mongo DB" width="40" height="40"/>&nbsp
@@ -59,7 +59,7 @@ My name is Anastasiia. I'm a QA Engineer.
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/DBeaver_logo.svg/512px-DBeaver_logo.svg.png" title="DBeaver" alt="DBeaver" width="40" height="40"/>&nbsp
 </div>
 
-## Автотесты
+## Autotests
 <div>
   <img src="https://user-images.githubusercontent.com/68279555/200387386-276c709f-380b-46cc-81fd-f292985927a8.png" title="Cypress" alt="Cypress" width="40" height="40"/>&nbsp
   <img src="https://user-images.githubusercontent.com/25181517/184103699-d1b83c07-2d83-4d99-9a1e-83bd89e08117.png" title="Selenium" alt="Selenium" width="40" height="40"/>&nbsp
@@ -75,7 +75,7 @@ My name is Anastasiia. I'm a QA Engineer.
 
 <br>
 
-## 🪴 Практика и стажировка
+## 🪴 Internships
 [<img src="/certificate_auto.png" width="280px" hspace="10px" alt="Сертификат об окончании стажировки»">](https://raw.githubusercontent.com/German-D/German-D/main/certificate_auto.png)
 [<img src="/certificate2.png" width="280px" hspace="10px" alt="Сертификат Kvadra»">](https://raw.githubusercontent.com/German-D/German-D/main/certificate2.png)
 [<img src="/certificate3.png" width="280px" hspace="10px" alt="Сертификат 4fresh»">](https://raw.githubusercontent.com/German-D/German-D/main/certificate3.png)
@@ -83,14 +83,14 @@ My name is Anastasiia. I'm a QA Engineer.
 
 <br>
 
-## 🎒 Образование
+## 🎒 Education
 [<img src="/diploma_en2.png" width="280px" hspace="10px" alt="Диплом»">](https://raw.githubusercontent.com/German-D/German-D/main/diploma_en2.png)
 [<img src="/Letter10.png" width="280px" hspace="10px" alt="Рекомендательное письмо»">](https://raw.githubusercontent.com/German-D/German-D/main/Letter10.png)
 
 <br>
 <br>
 
-## 🤝 Контакт
+## 🤝 Contacts
 [![Email](https://img.shields.io/badge/Email-3b5998?style=flat-square&logo=Mail.Ru&logoColor=white)](mailto:german@dolnikov.ru)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/dolnikov)
 
