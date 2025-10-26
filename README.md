@@ -2,7 +2,7 @@
 
 My name is Anastasiia. I'm a QA Engineer.
 
-## 📊 Статистика
+## 📊 Statistics
 
 ![](https://github-readme-stats.vercel.app/api?hide_rank=true&hide=issues,contribs&show_icons=true&locale=en&langs_count=8&card_width=320&username=AnastasiiaMaas)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?layout=donut&langs_count=6&hide_progress=true&username=AnastasiiaMaas)
@@ -16,7 +16,7 @@ My name is Anastasiia. I'm a QA Engineer.
 
 <br>
 
-## Тестирование API и интеграций
+## API and integration testing
 <div>
   <img src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" title="Postman" alt="Postman" width="40" height="40"/>&nbsp
   <img src="https://user-images.githubusercontent.com/25181517/192107004-2d2fff80-d207-4916-8a3e-130fee5ee495.png" title="Kafka" alt="Kafka" width="40" height="40"/>&nbsp
