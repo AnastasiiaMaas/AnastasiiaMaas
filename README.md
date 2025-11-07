@@ -87,7 +87,7 @@ My name is Anastasiia. I'm a QA Engineer.
 <br>
 
 ## Recommendation
-[<img src="/%D0%BC%D0%B0%D0%B0%D1%81_%D0%B0%D0%BD%D0%B0%D1%81%D1%82%D0%B0%D1%81%D0%B8%D1%8F.pdf" width="280px" hspace="10px" alt="Рекомендация»">](https://github.com/AnastasiiaMaas/AnastasiiaMaas/blob/main/%D0%BC%D0%B0%D0%B0%D1%81_%D0%B0%D0%BD%D0%B0%D1%81%D1%82%D0%B0%D1%81%D0%B8%D1%8F.pdf)
+[<img src="/маас_анастасия.pdf" width="280px" hspace="10px" alt="Рекомендация">](маас_анастасия.pdf)
 
 <br>
 
