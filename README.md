@@ -77,6 +77,7 @@ My name is Anastasiia. I'm a QA Engineer.
 
 ## 🪴 Internships
 [<img src="/internship.png" width="280px" hspace="10px" alt="Сертификат об окончании стажировки»">](https://github.com/AnastasiiaMaas/AnastasiiaMaas/blob/main/internship.png)
+[<img src="/anastasija_maas-promiq-en.png" width="280px" hspace="10px" alt="Сертификат об окончании стажировки»">](https://github.com/AnastasiiaMaas/AnastasiiaMaas/blob/main/anastasija_maas-promiq-en.png)
 
 <br>
 
@@ -84,6 +85,10 @@ My name is Anastasiia. I'm a QA Engineer.
 [<img src="/certificate.png" width="280px" hspace="10px" alt="Диплом»">](https://github.com/AnastasiiaMaas/AnastasiiaMaas/blob/main/certificate.png)
 
 <br>
+
+## Recommendation
+[<img src="/%D0%BC%D0%B0%D0%B0%D1%81_%D0%B0%D0%BD%D0%B0%D1%81%D1%82%D0%B0%D1%81%D0%B8%D1%8F.pdf" width="280px" hspace="10px" alt="Рекомендация»">](https://github.com/AnastasiiaMaas/AnastasiiaMaas/blob/main/%D0%BC%D0%B0%D0%B0%D1%81_%D0%B0%D0%BD%D0%B0%D1%81%D1%82%D0%B0%D1%81%D0%B8%D1%8F.pdf)
+
 <br>
 
 ## 🤝 Contacts
